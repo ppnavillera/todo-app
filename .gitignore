@@ -1,0 +1,6 @@
+# 비밀값 — 예시 파일만 올린다 (CLAUDE.md §7)
+.env
+.env.*
+!.env.example
+
+.DS_Store
